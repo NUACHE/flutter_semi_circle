@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_semi_circle/flutter_semi_circle.dart';
 
-class Empty extends StatelessWidget {
-  const Empty({super.key});
+class Example extends StatelessWidget {
+  const Example({super.key});
 
   @override
   Widget build(BuildContext context) {
