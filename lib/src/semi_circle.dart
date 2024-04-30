@@ -6,9 +6,13 @@ class FlutterSemiCircle extends StatelessWidget {
   final double width;
   final double totalValue;
   final double currentValue;
+  /// A double of how thick you want the semicircle to be
   final double thickness;
+  /// This is the background color of the semicircle
   final Color backgroundColor;
+  /// This is the foreground color of the semicircle
   final Color foregroundColor;
+  /// Pass a widget as a child
   final Widget child;
 
   const FlutterSemiCircle(
