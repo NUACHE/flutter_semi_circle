@@ -17,7 +17,7 @@ Add to pubspec.yaml.
 ```yaml
 dependencies:
   ...
-  flutter_semi_circle: ^0.0.5
+  flutter_semi_circle: ^1.0.0
 ```
 
 <img src="https://github.com/NUACHE/flutter_semi_circle/assets/56569925/4ad092a1-26a8-41c9-967c-2eeadee51e0c" width="300">
